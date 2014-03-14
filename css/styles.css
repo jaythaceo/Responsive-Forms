@@ -1,0 +1,39 @@
+body {
+	padding-bottom: 10px;
+	background-color: #eee;
+}
+
+#logo{
+	margin:10px 0;
+    text-align: center;
+}
+#logo img{
+    max-width: 90%;
+}
+
+.input-group, .form-control {
+	margin-bottom: 10px;
+}
+
+header{
+    background-color: #357ebd;
+    padding: 10px;
+	margin-bottom: 10px;
+}
+
+#title{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top:15px;
+}
+
+.btn-back {
+	margin-bottom: 5px;
+}
+
+.btn-group {
+	margin-bottom:10px;
+}
